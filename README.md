@@ -1,5 +1,6 @@
 # ML-Spring-Camp
-1First i have done the Preprocessing od data and extracted the relevant parameters having significant coorelation with saleprice.
+1)First I have done the Preprocessing od data and extracted the relevant parameters having significant coorelation with saleprice.
+
 FEATURES SELECTED
 a)Surface area-Mandatory for house buying and hence for prerdiction of price
 b)Total rooms-Releavnt feature with great coorelated with sale price
