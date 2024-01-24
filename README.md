@@ -9,4 +9,4 @@ FEATURES SELECTED
 <br>e)GarageArea-It not even tells the area but also weather there is a garage or not and hence helps in prediction in different ways
 <br>f)Luxury- Luxuries add additional values to house hence importaznt feature.
 
-2Then i have built a KNN model and generated the Predictions. 
+2)Then i have built a KNN model and generated the Predictions. 
