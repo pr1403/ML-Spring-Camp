@@ -3,7 +3,7 @@
 
 FEATURES SELECTED
 <br>a)Surface area-Mandatory for house buying and hence for prerdiction of price
-<br>b)Total rooms-Releavnt feature with great coorelated with sale price
+<br>b)Total rooms-Releavnt feature with great coorelateion with sale price
 <br>c)Overall Qyuality-Quality and condition of houise is importsnt for prediction
 <br>d)Kitchen-basic necessity feature
 <br>e)GarageArea-It not even tells the area but also weather there is a garage or not and hence helps in prediction in different ways
